@@ -10,14 +10,14 @@
    <div class="container">
         <div class="card mt-5">
             <div class="card-header">
-                <h2>all data</h2>
+                <h2>data</h2>
             </div>
             <div class="card-body"> 
                 <table class="table table-bordered">
                     <tr>
                         <th>Id</th>
-                        <th>Nome</th>
-                        <th>Email</th>
+                        <th>Nome teste</th>
+                        <th>Email para teste</th>
                         <th>Action</th>
                     </tr>    
                     <?php foreach($data as $people):?>
